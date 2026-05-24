@@ -6,5 +6,7 @@
   "config_flow": true,
   "integration_type": "service",
   "iot_class": "local_polling",
-  "quality_scale": "bronze"
+  "quality_scale": "bronze",
+  "documentation": "https://github.com/spacejumper/anytype-hass#readme",
+  "issue_tracker": "https://github.com/spacejumper/anytype-hass/issues"
 }

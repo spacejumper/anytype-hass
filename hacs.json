@@ -2,6 +2,5 @@
   "name": "AnyType",
   "homeassistant": "2023.7.0",
   "render_readme": true,
-  "content_in_root": false,
-  "domains": ["anytype"]
+  "content_in_root": false
 }
