@@ -1,12 +1,12 @@
 {
   "domain": "anytype",
   "name": "AnyType",
-  "version": "0.1.0",
   "codeowners": ["@spacejumper"],
   "config_flow": true,
+  "documentation": "https://github.com/spacejumper/anytype-hass#readme",
   "integration_type": "service",
   "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/spacejumper/anytype-hass/issues",
   "quality_scale": "bronze",
-  "documentation": "https://github.com/spacejumper/anytype-hass#readme",
-  "issue_tracker": "https://github.com/spacejumper/anytype-hass/issues"
+  "version": "0.1.0"
 }
