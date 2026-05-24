@@ -1,0 +1,10 @@
+{
+  "domain": "anytype",
+  "name": "AnyType",
+  "codeowners": ["@spacejumper"],
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/anytype",
+  "integration_type": "service",
+  "iot_class": "local_polling",
+  "quality_scale": "bronze"
+}

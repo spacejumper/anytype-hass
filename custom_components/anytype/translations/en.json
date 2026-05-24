@@ -1,0 +1,28 @@
+{
+    "config": {
+        "abort": {
+            "already_configured": "Device is already configured",
+            "reauth_successful": "Re-authentication was successful",
+            "reconfigure_successful": "Reconfiguration was successful"
+        },
+        "error": {
+            "cannot_connect": "Failed to connect",
+            "invalid_auth": "Invalid authentication",
+            "unknown": "Unexpected error"
+        },
+        "step": {
+            "user": {
+                "data": {
+                    "api_key": "API key",
+                    "host": "Host",
+                    "port": "Port"
+                },
+                "data_description": {
+                    "api_key": "API key used to authenticate with the AnyType API",
+                    "host": "Hostname or IP address of the AnyType server",
+                    "port": "Port number the AnyType API is reachable on (default: 31012)"
+                }
+            }
+        }
+    }
+}
